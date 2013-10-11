@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Finale()
+comment0.text=\n\ Create\ a\ score\ board\ for\ the\ final\ result.\n
+comment1.params=congrats
+comment1.target=Finale(java.lang.String)
+comment2.params=title
+comment2.target=void\ makeImage(java.lang.String)
+comment2.text=\n\ Make\ the\ winner's\ finale\ image.\n
+comment3.params=title\ msg
+comment3.target=void\ makeImage(java.lang.String,\ java.lang.String)
+comment3.text=\n\ Make\ the\ "game\ over\ and\ try\ again"\ image.\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Restart\ the\ game\ when\ score\ board\ is\ clicked.\n
+numComments=5
